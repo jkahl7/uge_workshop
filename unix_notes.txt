@@ -1,299 +1,30 @@
-   30  ./strut
-   31  make strut
-   32  man fopen
-   33  man pos
-   34  man fsetpos
-   35  make strut
-   36  make strut
-   37  make strut
-   38  make strut
-   39  make strut
-   40  make strut
-   41  make strut
-   42  make strut
-   43  make strut
-   44  make strut
-   45  make strut
-   46  make strut
-   47  make strut
-   48  ls
-   49  make creator
-   50  make creator
-   51  make creator
-   52  ./creator
-   53  ls
-   54  make creator
-   55  ./creator
-   56  make creator
-   57  make creator
-   58  ./creator
-   59  make creator
-   60  make crator
-   61  make creator
-   62  ./creator
-   63  ./creator
-   64  make creator
-   65  ./creator
-   66  make creator
-   67  ./creator
-   68  make creator
-   69  make creator
-   70  make creator
-   71  make creator
-   72  ./creator
-   73  make creator
-   74  ./creator
-   75  make creator
-   76  ./creator
-   77  make creator
-   78  ./creator
-   79  ./creator
-   80  make creator
-   81  ./creator
-   82  ./creator
-   83  make creator
-   84  ./creator
-   85  make creator
-   86  ./creator
-   87  make creator
-   88  make creator
-   89  ./creator
-   90  make creator
-   91  ./creator
-   92  make creator
-   93  ./creator
-   94  man fprintf
-   95  make creator
-   96  make creator
-   97  make creator
-   98  make creator
-   99  ./creator
-  100  valgrind
-  101  val
-  102  make creator
-  103  ./creator
-  104  make creator
-  105  make creator
-  106  make creator
-  107  make creator
-  108  make creator
-  109  ./creator
-  110  make creator
-  111  ./creator
-  112  make creator
-  113  make creator
-  114  make creator
-  115  make creator
-  116  ./creator
-  117  make creator
-  118  ./creator
-  119  make creator
-  120  ./creator
-  121  make creator
-  122  make creator
-  123  make creator
-  124  make creator
-  125  make creator
-  126  man memset
-  127  make creator
-  128  make creator
-  129  ./creator
-  130  make creator
-  131  ./creator
-  132  make creator
-  133  ./creator
-  134  make creator
-  135  ./creator
-  136  make creator
-  137  ./creator
-  138  make creator
-  139  ./creator
-  140  make creator
-  141  ./creator
-  142  make creator
-  143  make creator
-  144  ./creator
-  145  make creator
-  146  ./creator
-  147  make creator
-  148  ./creator
-  149  make creator
-  150  make creator
-  151  make creator
-  152  make creator
-  153  ./creator
-  154  make creator
-  155  ./creator
-  156  make creator
-  157  ./creator
-  158  make creator
-  159  make creator
-  160  ./creator
-  161  make creator
-  162  ./creator
-  163  make creator
-  164  ./creator
-  165  make creator
-  166  ./creator
-  167  make creator
-  168  make creator
-  169  make creator
-  170  ./creator
-  171  make creator
-  172  ./creator
-  173  make cerator
-  174  make creator
-  175  ./creator
-  176  make creator
-  177  make creator
-  178  make creator
-  179  make creator
-  180  make creator
-  181  make creator
-  182  ./creator
-  183  make creator
-  184  make creator
-  185  make creator
-  186  make creator
-  187  ./creator
-  188  make creator
-  189  ./creator
-  190  make creator
-  191  ./creator
-  192  make creator
-  193  make creator
-  194  ./creator
-  195  make creator
-  196  ./creator
-  197  make creator
-  198  make creator
-  199  ./creator
-  200  make creator
+   hidden files and folders begin with a dot (.)
+   
+
+
   201  make creator
   202  ./creator
-  203  make iotst
-  204  make iotst
-  205  make iotst
-  206  ./iotst
-  207  make iotst
-  208  ./iotst
-  209  make iotst
-  210  ./iotst
-  211  make iotst
-  212  ./iotst
-  213  make iotst
-  214  make iotst
-  215  make iotst
-  216  make iotst
-  217  ./iotst
-  218  make iotst
-  219  ./iotst
-  220  make iotst
-  221  ./iotst
-  222  make iotst
-  223  ./iotst
-  224  make iotst
-  225  make iotst
-  226  make iotst
-  227  ./iotst
-  228  ls
-  229  make iotst
-  230  ./iotst
-  231  make iotst
-  232  ./iotst
-  233  make iotst
-  234  ./iotst
-  235  make iotst
-  236  ./iotst
-  237  make iotst
-  238  make iotst
-  239  make iotst
-  240  make iotst
-  241  make iotst
-  242  ./iotst
-  243  make iotst
-  244  make iotst
-  245  ./iotst
-  246  make iotst
-  247  ./iotst
-  248  make iotst
-  249  make iotst
-  250  ./iotst
-  251  make iotst
-  252  ./iotst
-  253  make iotst
-  254  ./iotst
-  255  make iotst
-  256  ./iotst
-  257  make iotst
-  258  make iotst
-  259  ./iotst
-  260  make iotst
-  261  make iotst
-  262  make iotst
-  263  make iotst
-  264  make iotst
-  265  make iotst
-  266  make iotst
-  267  make iotst
-  268  ./iotst
-  269  make iotst
   270  ./iotst
   271  make iotst
   272  man fread
   273  man snprintf
-  274  make iotst
-  275  make iotst
-  276  make iotst
-  277  make iotst
-  278  make iotst
   279  git
   280  git status
   281  status
   282  git --version
   283  ls
-  284  make iotst
-  285  make iotst
-  286  make iotst
-  287  ./iotst
   288  git update
   289  git --help
-  290  ls
-  291  cd
-  292  ls
-  293  cd Documents
-  294  ls
-  295  javac -version
   296  javac -version
   297  /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
   298  javac -version
-  299  ls
-  300  cd
-  301  ls
-  302  cd Desktop
-  303  ls
-  304  cd lcthw
-  305  ls
-  306  pwd
-  307  cd
-  308  pwd
-  309  cd /
-  310  ls
   311  pwd
-  312  cd ~/Users/jkahl7/Desktop
-  313  cd /Desktop/lcthw
-  314  cd ~/Desktop.lcthw
-  315  cd ~Desktop/lcthw
-  316  cd ~/Desktop/lcthw
   317  ls
   318  cd 
   319  cd / 
   320  ls -t
-  321  ls
   322  ls -l
   323  cd Incompatible Software
-  324  man struct
-  325  struct man
   326  man man
   327  man ls
   328  man free
@@ -498,3 +229,4 @@
   527  ls
   528  sublime ./moving_around.txt
   529  history > history.txt
+

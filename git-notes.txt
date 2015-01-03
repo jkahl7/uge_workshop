@@ -1,0 +1,8 @@
+workflow - modify - add - commit 
+
+git init - creates a git file in the file you want the repository to be
+git status - displays current status of tracked and untracked file
+git add - gives the file tracked status in the current repo
+git log - show sall of the commited files in the repo
+git commit -m "notes"  - will add the files being tracked with the messege used
+git branch - creates a label that points to the selected file

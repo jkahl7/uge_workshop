@@ -1,0 +1,500 @@
+   36  ./creator
+   37  valgrind
+   38  val
+   39  make creator
+   40  ./creator
+   41  make creator
+   42  make creator
+   43  make creator
+   44  make creator
+   45  make creator
+   46  ./creator
+   47  make creator
+   48  ./creator
+   49  make creator
+   50  make creator
+   51  make creator
+   52  make creator
+   53  ./creator
+   54  make creator
+   55  ./creator
+   56  make creator
+   57  ./creator
+   58  make creator
+   59  make creator
+   60  make creator
+   61  make creator
+   62  make creator
+   63  man memset
+   64  make creator
+   65  make creator
+   66  ./creator
+   67  make creator
+   68  ./creator
+   69  make creator
+   70  ./creator
+   71  make creator
+   72  ./creator
+   73  make creator
+   74  ./creator
+   75  make creator
+   76  ./creator
+   77  make creator
+   78  ./creator
+   79  make creator
+   80  make creator
+   81  ./creator
+   82  make creator
+   83  ./creator
+   84  make creator
+   85  ./creator
+   86  make creator
+   87  make creator
+   88  make creator
+   89  make creator
+   90  ./creator
+   91  make creator
+   92  ./creator
+   93  make creator
+   94  ./creator
+   95  make creator
+   96  make creator
+   97  ./creator
+   98  make creator
+   99  ./creator
+  100  make creator
+  101  ./creator
+  102  make creator
+  103  ./creator
+  104  make creator
+  105  make creator
+  106  make creator
+  107  ./creator
+  108  make creator
+  109  ./creator
+  110  make cerator
+  111  make creator
+  112  ./creator
+  113  make creator
+  114  make creator
+  115  make creator
+  116  make creator
+  117  make creator
+  118  make creator
+  119  ./creator
+  120  make creator
+  121  make creator
+  122  make creator
+  123  make creator
+  124  ./creator
+  125  make creator
+  126  ./creator
+  127  make creator
+  128  ./creator
+  129  make creator
+  130  make creator
+  131  ./creator
+  132  make creator
+  133  ./creator
+  134  make creator
+  135  make creator
+  136  ./creator
+  137  make creator
+  138  make creator
+  139  ./creator
+  140  make iotst
+  141  make iotst
+  142  make iotst
+  143  ./iotst
+  144  make iotst
+  145  ./iotst
+  146  make iotst
+  147  ./iotst
+  148  make iotst
+  149  ./iotst
+  150  make iotst
+  151  make iotst
+  152  make iotst
+  153  make iotst
+  154  ./iotst
+  155  make iotst
+  156  ./iotst
+  157  make iotst
+  158  ./iotst
+  159  make iotst
+  160  ./iotst
+  161  make iotst
+  162  make iotst
+  163  make iotst
+  164  ./iotst
+  165  ls
+  166  make iotst
+  167  ./iotst
+  168  make iotst
+  169  ./iotst
+  170  make iotst
+  171  ./iotst
+  172  make iotst
+  173  ./iotst
+  174  make iotst
+  175  make iotst
+  176  make iotst
+  177  make iotst
+  178  make iotst
+  179  ./iotst
+  180  make iotst
+  181  make iotst
+  182  ./iotst
+  183  make iotst
+  184  ./iotst
+  185  make iotst
+  186  make iotst
+  187  ./iotst
+  188  make iotst
+  189  ./iotst
+  190  make iotst
+  191  ./iotst
+  192  make iotst
+  193  ./iotst
+  194  make iotst
+  195  make iotst
+  196  ./iotst
+  197  make iotst
+  198  make iotst
+  199  make iotst
+  200  make iotst
+  201  make iotst
+  202  make iotst
+  203  make iotst
+  204  make iotst
+  205  ./iotst
+  206  make iotst
+  207  ./iotst
+  208  make iotst
+  209  man fread
+  210  man snprintf
+  211  make iotst
+  212  make iotst
+  213  make iotst
+  214  make iotst
+  215  make iotst
+  216  git
+  217  git status
+  218  status
+  219  git --version
+  220  ls
+  221  make iotst
+  222  make iotst
+  223  make iotst
+  224  ./iotst
+  225  git update
+  226  git --help
+  227  ls
+  228  cd
+  229  ls
+  230  cd Documents
+  231  ls
+  232  javac -version
+  233  javac -version
+  234  /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+  235  javac -version
+  236  ls
+  237  cd
+  238  ls
+  239  cd Desktop
+  240  ls
+  241  cd lcthw
+  242  ls
+  243  pwd
+  244  cd
+  245  pwd
+  246  cd /
+  247  ls
+  248  pwd
+  249  cd ~/Users/jkahl7/Desktop
+  250  cd /Desktop/lcthw
+  251  cd ~/Desktop.lcthw
+  252  cd ~Desktop/lcthw
+  253  cd ~/Desktop/lcthw
+  254  ls
+  255  cd 
+  256  cd / 
+  257  ls -t
+  258  ls
+  259  ls -l
+  260  cd Incompatible Software
+  261  man struct
+  262  struct man
+  263  man man
+  264  man ls
+  265  man free
+  266  man q
+  267  man mkdir
+  268  man assert
+  269  man abort
+  270  man ls
+  271  man *
+  272  man ^
+  273  man %
+  274  man /
+  275  man || q
+  276  man | help
+  277  man ls || cd
+  278  man ls && cd
+  279  ls
+  280  cd Desktop
+  281  ls
+  282  cd /
+  283  ls
+  284  cd /Users/jkahl7
+  285  ls
+  286  pwd
+  287  NSURL 
+  288  NSUserDefaults
+  289  man NSURL
+  290  man nslookup
+  291  ls -l
+  292  cd drwxr-xr-x
+  293  ls -p
+  294  ls -lp
+  295  clear
+  296  pwd
+  297  ;s
+  298  ls
+  299  cd Downloads
+  300  man cd
+  301  ls -l
+  302  cd
+  303  ls
+  304  cd Downloads
+  305  ls
+  306  cd valgrind-3.10.0.tar.bz2
+  307  make valgrind-3.10.0
+  308  cd..
+  309  cd ..
+  310  ls
+  311  brew install get
+  312  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  313  brew doctor
+  314  ls
+  315  cd /usr/loca
+  316  cd /usr/local
+  317  ls
+  318  ls ~
+  319  ls /Desktop
+  320  ls Desktop
+  321  ls /
+  322  ls /Documents
+  323  ls -l/
+  324  ls -l /
+  325  ls / -l
+  326  ls
+  327  ..
+  328  cd .. 
+  329  ls
+  330  cd ..
+  331  ls
+  332  cd Applications
+  333  ls
+  334  ls .
+  335  brew doctor
+  336  q
+  337  brew prune
+  338  brew doctor
+  339  cd
+  340  ls
+  341  cd /Library/Frameworks
+  342  ls
+  343  history
+  344  history less
+  345  history less 5
+  346  less history 
+  347  less
+  348  man less
+  349  cd
+  350  less | history
+  351  less | history
+  352  history > my_history
+  353  ls
+  354  my_history | less
+  355  less my_history
+  356  cd /Desktop/lcthw
+  357  ls
+  358  cd Desktop/lcthw
+  359  ls
+  360  less ex16
+  361  less ex15.c
+  362  less ex15.c > unix/gitclass1
+  363  ls ex15.c > test.text
+  364  ls
+  365  ex15.c >> test1.text
+  366  subl
+  367  cd
+  368  subl
+  369  subl
+  370  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  371  subl
+  372  subl --
+  373  subl --help
+  374  /usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
+  375  /usr/bin
+  376  cd /usr/bin
+  377  ls
+  378  cd ..
+  379  ls
+  380  cd ..
+  381  ls
+  382  cd /
+  383  ls
+  384  cd Applications
+  385  cd
+  386  cd Applications
+  387  ls
+  388  ls
+  389  cd Sublime Text 2 .app
+  390  ls
+  391  /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl .
+  392  /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl .
+  393  /Applications/Sublime Text2.app/Contents/SharedSupport/bin/subl
+  394  subl
+  395  cd
+  396  ls
+  397  subl
+  398  cd
+  399  ls
+  400  ls
+  401  pwd
+  402  mkdir /usr/local/bin
+  403  cd usr
+  404  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+  405  subl
+  406  open ~/.bash_profile
+  407  source ~/.bash_profile
+  408  subl
+  409  sublime 
+  410  sublime .
+  411  ls
+  412  ls
+  413  cd
+  414  q
+  415  subl
+  416  ls
+  417  cd
+  418  ls
+  419  cd /
+  420  ls -l
+  421  open ~/.bash_profile
+  422  /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+  423  ls
+  424  cd
+  425  open
+  426  man
+  427  man man
+  428  $ export PATH=/bin:/usr/bin:/usr/local/bin
+  429  ds
+  430  ls
+  431  cd
+  432  cd /
+  433  ls
+  434  man man
+  435  q
+  436  subl
+  437  sublime
+  438  history > history.text
+  439  history > history1.text
+  440  less history history.text
+  441  man py
+  442  man python
+  443  sublime
+  444  ls
+  445  cd
+  446  cd users
+  447  ls
+  448  cd Users/
+  449  cd Users
+  450  cd /Users
+  451  ls
+  452  cd /jkahl7
+  453  cd jkahl7
+  454  ls
+  455  my_history > moving_around.txt
+  456  cd
+  457  ls
+  458  mkdir uge_workshop
+  459  ls
+  460  sublime | moving_around.txt
+  461  mv moving_around.txt ./uge_workshop/
+  462  ls
+  463  cd uge_workshop
+  464  ls
+  465  sublime ./moving_around.txt
+  466  history > history.txt
+  467  ls
+  468  sublime ./history.txt
+  469  history.txt > moving_around.txt
+  470  cd ..
+  471  ls
+  472  mv uge_workshop/moving_around.txt uge_workshop/unix_notes.txt
+  473  ls
+  474  sublime ./uge_workshop/unix_notes.txt
+  475  cd uge_workshop
+  476  ls
+  477  less history.txt > unix_notes.txt 
+  478  sublime unix_notes.txt 
+  479  git update
+  480  git --help
+  481  q
+  482  quit
+  483  exit
+  484  which git
+  485  git --version
+  486  git config --global user.name "Josh Kahl"
+  487  git config --global user.email "j7kahl@gmail.com"
+  488  git config -l | q
+  489  git config -l | sort
+  490  pwd
+  491  ls
+  492  git init
+  493  git status
+  494  git add unix_notes.txt
+  495  git status
+  496  git commit -m "Demo for class"
+  497  git status
+  498  git log
+  499  git log | less
+  500  ls -al
+  501  ls -a
+  502  ls
+  503  remove history.txt
+  504  remove history
+  505  sublime unix_notes.txt
+  506  git status
+  507  git add unix_notes.txt
+  508  git status
+  509  git diff --staged
+  510  ls
+  511  git diff --staged
+  512  git comit -m "add notes about hidden files and directories"
+  513  git commit -m "add notes about hidden files and direcetories"
+  514  git status
+  515  git log
+  516  man git-log
+  517  git help log
+  518  git branch git-notes
+  519  git status
+  520  git log
+  521  git branch
+  522  git checkout git-notes
+  523  touch git-notes.txt
+  524  ls -l
+  525  sublime git-notes.txt
+  526  git add git-notes.txt
+  527  git status
+  528  git commit -m "add git notes"
+  529  git log
+  530  git remote -v
+  531  git remote add origin https://github.com/jkahl7/uge_workshop.git
+  532  git push -u origin master
+  533  git push
+  534  ls
+  535  history > new_notes.txt | less
